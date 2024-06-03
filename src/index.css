@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.text-player {
+  padding: 20px;
+}
+
+.innerChannel {
+  display: flex;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffffff12;
+}
+
+.innerChannel img {
+  width: 250px;
+}
+
+.channel {
+  padding: 1rem;
+}
